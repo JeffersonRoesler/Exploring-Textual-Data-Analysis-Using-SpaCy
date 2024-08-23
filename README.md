@@ -1,4 +1,4 @@
-# Exploring-Textual-Data-Analysis-Using-SpaCy
+# Exploring Textual Data Analysis using SpaCy
 Exploring Textual Data Analysis with SpaCy
 
 # Project 2: Exploring Textual Data Analysis Using SpaCy
